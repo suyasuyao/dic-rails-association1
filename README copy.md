@@ -1,7 +1,8 @@
-# dic-rails-association1
+# dic-rails-login1
 
-dic day9
-railsのアソシエーション機能を確認する。
+
+
+
 
 # docker
 ## 利用方法
